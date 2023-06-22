@@ -1,0 +1,9 @@
+fastapi
+pandas
+pymongo
+spacy
+uvicorn
+nltk
+scikit-learn
+dnspython
+transformers
